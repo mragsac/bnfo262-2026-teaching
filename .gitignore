@@ -5,3 +5,6 @@
 
 # vscode environments
 .vscode
+
+# jupyter notebooks
+.ipynb_checkpoints
